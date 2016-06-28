@@ -73,7 +73,7 @@
     <string name="copying">Kopiert</string>
     <string name="moving">Verschiebe</string>
     <string name="add">Hinzufügen</string>
-    <string name="tab">Tab</string>
+    <string name="tab">Registerkarte</string>
     <string name="file">Datei</string>
     <string name="folder">Ordner</string>
     <string name="newfolder">Neuer Ordner</string>
@@ -83,13 +83,13 @@
     <string name="stopping">Aktion gestoppt</string>
     <string name="guide1">Willkommen beim Amaze File Manager</string>
     <string name="guide2">Tippe den blauen Balken um die Pfadanzeige anzuzeigen oder zu verstecken.</string>
-    <string name="guide3">Berühre und halte irgendeine Datei für mehr Optionen...</string>
+    <string name="guide3">Berühre und halte eine Datei für mehr Optionen...</string>
     <string name="guide4">Wie Kopieren, Verschieben, Eigenschaften, etc.</string>
     <string name="guide5">Benutze die Zurück-Taste um die App jederzeit zu schließen...</string>
     <string name="guide6">..Und den Pfeil nach links zur Navigation in der App.</string>
-    <string name="maintab">Letzter Tab kann nicht entfernt werden!</string>
+    <string name="maintab">Die letzte Registerkarte kann nicht entfernt werden!</string>
     <string name="openparent">Öffne übergeordnetes Verzeichnis</string>
-    <string name="openwith">Öffne mit</string>
+    <string name="openwith">Öffnen mit</string>
     <string name="share">Teilen</string>
     <string name="about">Über</string>
     <string name="extract">Extrahieren</string>
@@ -98,7 +98,7 @@
     <string name="no">Nein</string>
     <string name="confirm">Bestätigen</string>
     <string name="deleting">Löschen</string>
-    <string name="questiondelete">Möchten Sie die folgenden Dateien wirklich endgültig löschen?</string>
+    <string name="questiondelete">Möchtest Du die folgenden Dateien endgültig löschen?</string>
     <string name="viewmode">Ansichtsmodus</string>
     <string name="uimode">Listenmodus</string>
     <string name="directorysort">Sortierungsmodus der Verzeichnisse</string>
@@ -106,7 +106,7 @@
     <string name="theme">Thema</string>
     <string name="skin">Skin</string>
     <string name="random">Zufälliger Skin</string>
-    <string name="random_summary">Nimm zufälliges Thema beim Starten</string>
+    <string name="random_summary">Nimm ein zufälliges Thema beim Starten</string>
     <string name="colorize">Symbole einfärben</string>
     <string name="colorize_summary">Setzt ein paar andere Symbolfarben als das Farbthema.</string>
     <string name="back">Zurück</string>
@@ -117,8 +117,8 @@
     <string name="refresh">Aktualisieren</string>
     <string name="copy">Kopieren</string>
     <string name="rootmode">Root Explorer</string>
-    <string name="rootmodesummary">Nur für gerootete Geräte. Nur aktivieren wenn Sie ganz sicher sind.</string>
-    <string name="mountsystemsummary">Ermöglicht Modifizieren der Systemdateien</string>
+    <string name="rootmodesummary">Nur für Geräte mit Root-Rechte. Nur aktivieren, wenn Du dir ganz sicher bist und weißt was du tust.</string>
+    <string name="mountsystemsummary">Ermöglicht das Modifizieren der Systemdateien</string>
     <string name="mountsystem">Systemordner als beschreibbar einhängen</string>
     <string name="rootfailure">Root-Zugriff nicht gewährt</string>
     <string name="cut">Ausschneiden</string>
@@ -129,8 +129,8 @@
     <string name="foldercolor">Ordnerfarbe</string>
     <string name="imagegallery">Bildergalerie</string>
     <string name="fileexplorer">Datei-Explorer</string>
-    <string name="changegallerypath">Galleriepfad ändern</string>
-    <string name="usedefaultgallerypath">Standard-Galleriepfad verwenden</string>
+    <string name="changegallerypath">Galeriepfad ändern</string>
+    <string name="usedefaultgallerypath">Standard-Galeriepfad verwenden</string>
 
     <!-- New -->
     <!-- Array -->
@@ -141,12 +141,12 @@
     <!-- Theme -->
     <string name="light">Hell</string>
     <string name="dark">Dunkel</string>
-    <string name="daytime">Tageslicht</string>
+    <string name="daytime">Tageszeit abhängig</string>
     <!--Skin-->
     <string name="red">Rot</string>
     <string name="pink">Pink</string>
     <string name="purple">Violett</string>
-    <string name="deep_purple">Dunkles lila</string>
+    <string name="deep_purple">Dunkellila</string>
     <string name="indigo">Indigo</string>
     <string name="blue">Blau</string>
     <string name="light_blue">Hellblau</string>
@@ -156,14 +156,14 @@
     <string name="light_green">Hellgrün</string>
     <string name="amber">Bernstein</string>
     <string name="orange">Orange</string>
-    <string name="deep_orange">Dunkles Orange</string>
+    <string name="deep_orange">Dunkelorange</string>
     <string name="brown">Braun</string>
     <string name="black">Schwarz</string>
     <string name="blue_grey">Blaugrau</string>
     <!--DirectorySortMode-->
-    <string name="foldersOnTop">Ordner oben</string>
-    <string name="filesOnTop">Dateien oben</string>
-    <string name="noneOnTop">Nichts davon oben</string>
+    <string name="foldersOnTop">Ordner zuerst</string>
+    <string name="filesOnTop">Dateien zuerst</string>
+    <string name="noneOnTop">Nichts davon zuerst</string>
     <!--SortBy-->
     <string name="sortName">Name</string>
     <string name="lastModified">Änderungsdatum</string>
@@ -182,7 +182,7 @@
     <string name="no_file_overwrite">Keine Datei überschrieben</string>
     <string name="skip">Überspringen</string>
     <string name="overwrite">Überschreiben</string>
-    <string name="cant_read_file">Kann Datei nicht lesen</string>
+    <string name="cant_read_file">Datei kann nicht gelesen werden</string>
     <string name="not_allowed">Nicht erlaubt</string>
     <string name="processes">Prozessse</string>
     <string name="searching">Suche</string>
@@ -197,15 +197,15 @@
     <string name="foldercreated">Ordner erstellt</string>
     <string name="newfile">Neue Datei</string>
     <string name="nofiles">Keine Dateien</string>
-    <string name="tapnhold">Tippe und halte Datei für mehr Optionen</string>
-    <string name="pathcopied">Pfad in Zwischenspeicher kopiert</string>
+    <string name="tapnhold">Tippe und halte die Datei für mehr Optionen</string>
+    <string name="pathcopied">Pfad in den Zwischenspeicher kopiert</string>
     <string name="used">Benutzt:\u0020</string>
     <string name="free">Frei:\u0020</string>
     <string name="atroot">Oberstes Verzeichnis erreicht</string>
     <string name="listview">Listenansicht</string>
     <string name="gridview">Tabellenansicht</string>
-    <string name="setlistview">Setzte Listenansicht</string>
-    <string name="setgridview">Setzte Tabellenansicht</string>
+    <string name="setlistview">Setze Listenansicht</string>
+    <string name="setgridview">Setze Tabellenansicht</string>
     <string name="permission">Berechtigungen</string>
     <string name="hide">Verstecken</string>
     <string name="exit">Schließen</string>
@@ -278,7 +278,7 @@
     <string name="anonymous">Anonymous</string>
     <string name="apks">APKs</string>
     <string name="archive_summary">Archiv-Dateien werden in dieses Verzeichnis entpackt. Standardmäßig ist dies dasjenige Verzeichnis, in welchem sich das Archiv befindet.</string>
-    <string name="archtext">Dies ist ein Archiv. Was möchten Sie durchführen?</string>
+    <string name="archtext">Dies ist ein Dateiarchiv. Was möchtest Du tun?</string>
     <string name="ascending">Aufsteigend</string>
     <string name="archive">Archiv</string>
     <string name="archive_extract_folder">Verzeichnis zum Entpacken von Archiven</string>
@@ -313,7 +313,7 @@
     <string name="hide_toolbar">Werkzeugleiste verstecken</string>
     <string name="hide_appbar">Komplette App-Leiste verstecken</string>
     <string name="hide_mode_app_bar">App-Leiste wird beim Scrollen versteckt</string>
-    <string name="hide_mode_nothing">App-Bar bleibt unverändert</string>
+    <string name="hide_mode_nothing">App-Leiste bleibt unverändert</string>
     <string name="icon_color_summary">Icon-Farbe setzen</string>
     <string name="icon_color_title">Farbe der Icons</string>
     <string name="icon_credits">Grafiken von<a href="http://cookicons.co/">CookIcons</a></string>
@@ -332,10 +332,10 @@
     <string name="operationunsuccesful">Vorgang erfolgreich</string>
     <string name="password">Passwort</string>
     <string name="path">Pfad</string>
-    <string name="pitext">Dies ist ein Installer für Pakete. Was möchten Sie tun?</string>
+    <string name="pitext">Du hast ein installierbares Paket ausgewählt. Was möchtest Du tun?</string>
     <string name="primary_color_summary">Farbe für große Elemente setzen.</string>
     <string name="primary_color_title">Primärfarbe</string>
-    <string name="questionset">Möchten Sie den aktuellen Pfad als Standard für dieses Tab setzen?</string>
+    <string name="questionset">Möchtest Du den aktuellen Pfad als Standard für diese Registerkarte setzen?</string>
     <string name="quick">Schnellzugriff</string>
     <string name="recent">Kürzlich verwendete Dateien</string>
     <string name="renamebookmark">Lesezeichen ändern</string>
